@@ -1,0 +1,3752 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "USA",
+    "country_confidence": {
+      "USA": 1.0
+    },
+    "country_entropy": -1.000088900581841e-12,
+    "date": "1972-06-06",
+    "div": 0,
+    "num_date": 1972.4318233759795,
+    "num_date_confidence": [
+      1950.3083421730037,
+      1980.5256984788095
+    ],
+    "state": "Santa_Rosa_County_FL",
+    "state_confidence": {
+      "Levy_County_FL": 0.02436276238135769,
+      "Oswego_NY": 0.019953002875337994,
+      "Santa_Rosa_County_FL": 0.49294444340345,
+      "Volusia_County_FL": 0.24775641979877955
+    },
+    "state_entropy": 1.7994133206841472
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {
+        "EEEVgp1": [
+          "T420A",
+          "A447V"
+        ],
+        "EEEVgp2": [
+          "K56R"
+        ]
+      },
+      "attr": {
+        "accession": "KU840363",
+        "clock_length": 0.0030439482069050203,
+        "country": "USA",
+        "country_confidence": {
+          "USA": 1.0
+        },
+        "country_entropy": -1.000088900581841e-12,
+        "date": "1994-03-26",
+        "div": 0.0033543153227898856,
+        "num_date": 1994.2354551676933,
+        "num_date_confidence": [
+          1994.2354551676933,
+          1994.2354551676933
+        ],
+        "raw_date": "1994-03-27",
+        "state": "Volusia_County_FL",
+        "state_confidence": {
+          "Volusia_County_FL": 1.0
+        },
+        "state_entropy": -1.000088900581841e-12
+      },
+      "branch_length": 0.00304395,
+      "clade": 0,
+      "muts": [
+        "T526C",
+        "C532T",
+        "T547C",
+        "T631A",
+        "T826C",
+        "T874C",
+        "T997C",
+        "T1576G",
+        "T1960C",
+        "C1979T",
+        "A2206T",
+        "A2248G",
+        "A2431G",
+        "C2752T",
+        "C2978T",
+        "T3025A",
+        "C3232T",
+        "G3247A",
+        "T3446C",
+        "G4171A",
+        "C4195T",
+        "G4270A",
+        "T4423C",
+        "C4846T",
+        "G5110T",
+        "A5282G",
+        "T5362C",
+        "C5364T",
+        "A5404G",
+        "G5425A",
+        "T5465C",
+        "G5842A",
+        "A5850G",
+        "C6169T",
+        "C6190T",
+        "G6271T",
+        "T6589C",
+        "T6859C",
+        "C6973T",
+        "C7078T",
+        "C7295T",
+        "G7306A",
+        "T7708A",
+        "T7765G",
+        "A7792G",
+        "T8134C",
+        "C8377T",
+        "A8416G",
+        "A9067C",
+        "G9253A",
+        "C9682T",
+        "C10339T",
+        "A10798T",
+        "T11152C"
+      ],
+      "strain": "KU840363",
+      "yvalue": 47
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.0015080196919484657,
+        "country": "USA",
+        "country_confidence": {
+          "USA": 1.0
+        },
+        "country_entropy": -1.000088900581841e-12,
+        "date": "1983-03-26",
+        "div": 0.0012876005996862755,
+        "num_date": 1983.2336845979644,
+        "num_date_confidence": [
+          1965.8617621150736,
+          1987.9534230185639
+        ],
+        "state": "Santa_Rosa_County_FL",
+        "state_confidence": {
+          "Levy_County_FL": 0.01982702424310717,
+          "Oswego_NY": 0.008259998308479448,
+          "Plymouth": 0.009150401945667243,
+          "Santa_Rosa_County_FL": 0.936009852412422
+        },
+        "state_entropy": 0.3824566405800363
+      },
+      "branch_length": 0.00150802,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "KU840343",
+            "clock_length": 0.0027387881121323336,
+            "country": "USA",
+            "country_confidence": {
+              "USA": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2002-11-07",
+            "div": 0.004123619529302552,
+            "num_date": 2002.851471594798,
+            "num_date_confidence": [
+              2002.851471594798,
+              2002.851471594798
+            ],
+            "raw_date": "2002-11-07",
+            "state": "Santa_Rosa_County_FL",
+            "state_confidence": {
+              "Santa_Rosa_County_FL": 1.0
+            },
+            "state_entropy": -1.000088900581841e-12
+          },
+          "branch_length": 0.00273879,
+          "clade": 1,
+          "muts": [
+            "T364C",
+            "T451A",
+            "C1495T",
+            "A2041G",
+            "G2062A",
+            "C2185T",
+            "C2188T",
+            "C2503T",
+            "A3031G",
+            "C3229T",
+            "T3340C",
+            "C3499T",
+            "G3631A",
+            "T4543C",
+            "T4867C",
+            "T5305C",
+            "G5443T",
+            "T5446C",
+            "C6394T",
+            "T6538C",
+            "T6553C",
+            "G7363A",
+            "G7633T",
+            "A8089T",
+            "C8341T",
+            "T8734C",
+            "C8926T",
+            "T8992C",
+            "A9148G",
+            "T9379C",
+            "C9442T",
+            "A11224G",
+            "T11254C"
+          ],
+          "strain": "KU840343",
+          "yvalue": 46
+        },
+        {
+          "aa_muts": {
+            "EEEVgp1": [
+              "T420S",
+              "T529M"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.0028635711113948487,
+            "country": "USA",
+            "country_confidence": {
+              "USA": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2003-09-29",
+            "div": 0.00421011072881789,
+            "num_date": 2003.7452852817767,
+            "num_date_confidence": [
+              1998.584452546723,
+              2007.9085829104872
+            ],
+            "state": "Levy_County_FL",
+            "state_confidence": {
+              "Levy_County_FL": 0.4199895041113808,
+              "Plymouth": 0.007733643438328043,
+              "Santa_Rosa_County_FL": 0.1255307346472294,
+              "Wakulla_County_FL": 0.35498952891218694
+            },
+            "state_entropy": 1.5082908719374635
+          },
+          "branch_length": 0.00286357,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KU840292",
+                "clock_length": 0.0012950843946391878,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2013-01-07",
+                "div": 0.0058410145329735735,
+                "num_date": 2013.021902806297,
+                "num_date_confidence": [
+                  2013.021902806297,
+                  2013.021902806297
+                ],
+                "raw_date": "2013-01-08",
+                "state": "Levy_County_FL",
+                "state_confidence": {
+                  "Levy_County_FL": 1.0
+                },
+                "state_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 0.00129508,
+              "clade": 2,
+              "muts": [
+                "C469T",
+                "G1684A",
+                "A1699G",
+                "C3532T",
+                "C3850T",
+                "T4069C",
+                "T4171C",
+                "C4540T",
+                "G4975T",
+                "C5629T",
+                "T6533C",
+                "C6781T",
+                "C6841T",
+                "C7183T",
+                "A7222C",
+                "C7575T",
+                "C9190T",
+                "C10339T",
+                "A10384G"
+              ],
+              "strain": "KU840292",
+              "yvalue": 45
+            },
+            {
+              "aa_muts": {
+                "EEEVgp1": [
+                  "R456S"
+                ],
+                "EEEVgp3": [
+                  "I279V"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.0013225770653150152,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2013-03-20",
+                "div": 0.005325577288207747,
+                "num_date": 2013.218831278019,
+                "num_date_confidence": [
+                  2012.34498880216,
+                  2013.2683093771388
+                ],
+                "state": "Wakulla_County_FL",
+                "state_confidence": {
+                  "Levy_County_FL": 0.005943991723794148,
+                  "Santa_Rosa_County_FL": 0.0017218813974807983,
+                  "Wakulla_County_FL": 0.9892782538277903
+                },
+                "state_entropy": 0.07860427166808348
+              },
+              "branch_length": 0.00132258,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KU840339",
+                    "clock_length": 6.907508461697883e-06,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2013-04-07",
+                    "div": 0.005325577288207747,
+                    "num_date": 2013.2683093771388,
+                    "num_date_confidence": [
+                      2013.2683093771388,
+                      2013.2683093771388
+                    ],
+                    "raw_date": "2013-04-08",
+                    "state": "Wakulla_County_FL",
+                    "state_confidence": {
+                      "Wakulla_County_FL": 1.0
+                    },
+                    "state_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 6.91e-06,
+                  "clade": 3,
+                  "muts": [],
+                  "strain": "KU840339",
+                  "yvalue": 44
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KU840298",
+                    "clock_length": 6.907508461697883e-06,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2013-04-07",
+                    "div": 0.005325577288207747,
+                    "num_date": 2013.2683093771388,
+                    "num_date_confidence": [
+                      2013.2683093771388,
+                      2013.2683093771388
+                    ],
+                    "raw_date": "2013-04-08",
+                    "state": "Wakulla_County_FL",
+                    "state_confidence": {
+                      "Wakulla_County_FL": 1.0
+                    },
+                    "state_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 6.91e-06,
+                  "clade": 4,
+                  "muts": [],
+                  "strain": "KU840298",
+                  "yvalue": 43
+                }
+              ],
+              "clade": 5,
+              "muts": [
+                "T547C",
+                "C4528T",
+                "A5008T",
+                "A5392T",
+                "G6310A",
+                "C7009T",
+                "A7581G",
+                "C9208T",
+                "G9322A",
+                "A10150G",
+                "T10708C",
+                "A10826G",
+                "A10873G"
+              ],
+              "strain": "NODE_0000025",
+              "yvalue": 43.5
+            }
+          ],
+          "clade": 6,
+          "muts": [
+            "T580C",
+            "T850C",
+            "C862T",
+            "T1190C",
+            "T1432C",
+            "T2224C",
+            "C2683T",
+            "C2752T",
+            "A2947G",
+            "G3085A",
+            "C3106T",
+            "G4171T",
+            "A4177G",
+            "T4237C",
+            "T4408C",
+            "C5141T",
+            "A5206G",
+            "A5282T",
+            "T5518A",
+            "C5610T",
+            "G5632A",
+            "A6052G",
+            "T6175C",
+            "G6700A",
+            "T6772C",
+            "C7096T",
+            "T7567C",
+            "T8236C",
+            "G8329A",
+            "C8668A",
+            "T8851C",
+            "A9448G",
+            "C10636T",
+            "C10882T"
+          ],
+          "strain": "NODE_0000024",
+          "yvalue": 44.25
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.00030592462924649514,
+            "country": "USA",
+            "country_confidence": {
+              "USA": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "1985-06-04",
+            "div": 0.0016305639239049944,
+            "num_date": 1985.4250057107797,
+            "num_date_confidence": [
+              1969.9862289576429,
+              1989.6950146643248
+            ],
+            "state": "Santa_Rosa_County_FL",
+            "state_confidence": {
+              "Levy_County_FL": 0.010595338160618074,
+              "Oswego_NY": 0.025932225781037918,
+              "Plymouth": 0.018603513163810412,
+              "Santa_Rosa_County_FL": 0.908651938958628
+            },
+            "state_entropy": 0.5142952073688668
+          },
+          "branch_length": 0.00030592,
+          "children": [
+            {
+              "aa_muts": {
+                "EEEVgp1": [
+                  "D376E"
+                ]
+              },
+              "attr": {
+                "accession": "KU840379",
+                "clock_length": 0.0024305701376099906,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2002-10-31",
+                "div": 0.004294712135508373,
+                "num_date": 2002.8350444900752,
+                "num_date_confidence": [
+                  2002.8350444900752,
+                  2002.8350444900752
+                ],
+                "raw_date": "2002-11-01",
+                "state": "Santa_Rosa_County_FL",
+                "state_confidence": {
+                  "Santa_Rosa_County_FL": 1.0
+                },
+                "state_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 0.00243057,
+              "clade": 7,
+              "muts": [
+                "T286C",
+                "T1342C",
+                "C1435T",
+                "T1762C",
+                "T1798C",
+                "C2338T",
+                "C3460T",
+                "T3505C",
+                "C3523T",
+                "C3586T",
+                "G3650A",
+                "C3667T",
+                "T3814C",
+                "G4033A",
+                "C4783T",
+                "T4942C",
+                "T5152A",
+                "C5338T",
+                "C5635A",
+                "T7001C",
+                "A8308T",
+                "T8605C",
+                "T9535C",
+                "T9673C",
+                "G9709A",
+                "A10264G",
+                "T10375C",
+                "T10549C",
+                "C11026T",
+                "T11110C",
+                "C11321T"
+              ],
+              "strain": "KU840379",
+              "yvalue": 42
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0007772548788152808,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "1990-12-28",
+                "div": 0.0026601613672792247,
+                "num_date": 1990.9924391998115,
+                "num_date_confidence": [
+                  1981.3216029980913,
+                  1994.4722590473893
+                ],
+                "state": "Santa_Rosa_County_FL",
+                "state_confidence": {
+                  "Bristol": 0.09857514453515866,
+                  "Oswego_NY": 0.21566277072139284,
+                  "Plymouth": 0.13517669023116347,
+                  "Santa_Rosa_County_FL": 0.44442949973283696
+                },
+                "state_entropy": 1.722738245198549
+              },
+              "branch_length": 0.00077725,
+              "children": [
+                {
+                  "aa_muts": {
+                    "EEEVgp2": [
+                      "P100L"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.002050592481818713,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2005-09-05",
+                    "div": 0.005323520348966161,
+                    "num_date": 2005.68071915379,
+                    "num_date_confidence": [
+                      2004.209158926507,
+                      2006.323010823801
+                    ],
+                    "state": "Oswego_NY",
+                    "state_confidence": {
+                      "Oswego_NY": 0.9898081889279694,
+                      "Plymouth": 0.0011237484818046825,
+                      "Santa_Rosa_County_FL": 0.004627849618011338
+                    },
+                    "state_entropy": 0.07887847104709501
+                  },
+                  "branch_length": 0.00205059,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KX000106",
+                        "clock_length": 0.0002602439787687124,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2007-07-18",
+                        "div": 0.005837978142786769,
+                        "num_date": 2007.5448323066394,
+                        "num_date_confidence": [
+                          2007.5448323066394,
+                          2007.5448323066394
+                        ],
+                        "raw_date": "2007-07-18",
+                        "state": "Oswego_NY",
+                        "state_confidence": {
+                          "Oswego_NY": 0.9999999999999999
+                        },
+                        "state_entropy": -9.99866855976916e-13
+                      },
+                      "branch_length": 0.00026024,
+                      "clade": 8,
+                      "muts": [
+                        "T175C",
+                        "T2463C",
+                        "C3850A",
+                        "A6709T",
+                        "A8651G",
+                        "C9517T"
+                      ],
+                      "strain": "KX000106",
+                      "yvalue": 41
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 5.816509826691001e-05,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2006-02-04",
+                        "div": 0.005323520348966161,
+                        "num_date": 2006.097352519254,
+                        "num_date_confidence": [
+                          2005.061363396511,
+                          2006.494854030265
+                        ],
+                        "state": "Oswego_NY",
+                        "state_confidence": {
+                          "Oswego_NY": 0.9996764314620008
+                        },
+                        "state_entropy": 0.003716879104228152
+                      },
+                      "branch_length": 5.817e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KX000087",
+                            "clock_length": 0.00020513667420291146,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2007-07-26",
+                            "div": 0.005494930687892515,
+                            "num_date": 2007.5667351129364,
+                            "num_date_confidence": [
+                              2007.5667351129364,
+                              2007.5667351129364
+                            ],
+                            "raw_date": "2007-07-26",
+                            "state": "Oswego_NY",
+                            "state_confidence": {
+                              "Oswego_NY": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.00020514,
+                          "clade": 9,
+                          "muts": [
+                            "G5587A",
+                            "C10303T"
+                          ],
+                          "strain": "KX000087",
+                          "yvalue": 40
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KX000057",
+                            "clock_length": 6.552928053641977e-05,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2006-07-26",
+                            "div": 0.005409218949192146,
+                            "num_date": 2006.5667351129364,
+                            "num_date_confidence": [
+                              2006.5667351129364,
+                              2006.5667351129364
+                            ],
+                            "raw_date": "2006-07-26",
+                            "state": "Oswego_NY",
+                            "state_confidence": {
+                              "Oswego_NY": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 6.553e-05,
+                          "clade": 10,
+                          "muts": [
+                            "C8910T"
+                          ],
+                          "strain": "KX000057",
+                          "yvalue": 39
+                        }
+                      ],
+                      "clade": 11,
+                      "muts": [],
+                      "strain": "NODE_0000008",
+                      "yvalue": 39.5
+                    }
+                  ],
+                  "clade": 12,
+                  "muts": [
+                    "T721C",
+                    "T781C",
+                    "T1522A",
+                    "C1678T",
+                    "A2371G",
+                    "G3175T",
+                    "C3187T",
+                    "T3214C",
+                    "A3250G",
+                    "T3372C",
+                    "C3721T",
+                    "G3790A",
+                    "A4552G",
+                    "T4960C",
+                    "C5551T",
+                    "C5982T",
+                    "C6076T",
+                    "G6247A",
+                    "C6370T",
+                    "C6724T",
+                    "C6931T",
+                    "A7600T",
+                    "A8353G",
+                    "T8683C",
+                    "C8917T",
+                    "A9064G",
+                    "C9193T",
+                    "A9574G",
+                    "A10237G",
+                    "A10660G",
+                    "T11020C"
+                  ],
+                  "strain": "NODE_0000029",
+                  "yvalue": 40.25
+                },
+                {
+                  "aa_muts": {
+                    "EEEVgp1": [
+                      "I387L",
+                      "S410L"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.001636523480012293,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2002-09-18",
+                    "div": 0.004721761928178319,
+                    "num_date": 2002.7147659121188,
+                    "num_date_confidence": [
+                      2001.2074444655823,
+                      2004.2924303252323
+                    ],
+                    "state": "Plymouth",
+                    "state_confidence": {
+                      "Bristol": 0.4217417702805223,
+                      "Middlesex": 0.015407283438181051,
+                      "Plymouth": 0.5582523252109824,
+                      "Santa_Rosa_County_FL": 0.0025890161901494023
+                    },
+                    "state_entropy": 0.7864034495179275
+                  },
+                  "branch_length": 0.00163652,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KX029276",
+                        "clock_length": 0.0005343233626959782,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2006-07-16",
+                        "div": 0.00532209246724122,
+                        "num_date": 2006.542094455852,
+                        "num_date_confidence": [
+                          2006.542094455852,
+                          2006.542094455852
+                        ],
+                        "raw_date": "2006-07-17",
+                        "state": "Plymouth",
+                        "state_confidence": {
+                          "Plymouth": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00053432,
+                      "clade": 13,
+                      "muts": [
+                        "C1112T",
+                        "C2236T",
+                        "C2533T",
+                        "C2824T",
+                        "T3844C",
+                        "T4882C",
+                        "A9423G"
+                      ],
+                      "strain": "KX029276",
+                      "yvalue": 38
+                    },
+                    {
+                      "aa_muts": {
+                        "EEEVgp1": [
+                          "M278K"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "KX029265",
+                        "clock_length": 0.0002818642702477471,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2004-09-24",
+                        "div": 0.00515055273205747,
+                        "num_date": 2004.7337440109513,
+                        "num_date_confidence": [
+                          2004.7337440109513,
+                          2004.7337440109513
+                        ],
+                        "raw_date": "2004-09-24",
+                        "state": "Middlesex",
+                        "state_confidence": {
+                          "Middlesex": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00028186,
+                      "clade": 14,
+                      "muts": [
+                        "A3677G",
+                        "G4090A",
+                        "T4857A",
+                        "C8464T",
+                        "G11299A"
+                      ],
+                      "strain": "KX029265",
+                      "yvalue": 37
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KX029249",
+                        "clock_length": 0.0002677219743800934,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2004-08-18",
+                        "div": 0.005064729794823588,
+                        "num_date": 2004.6324435318274,
+                        "num_date_confidence": [
+                          2004.6324435318274,
+                          2004.6324435318274
+                        ],
+                        "raw_date": "2004-08-18",
+                        "state": "Bristol",
+                        "state_confidence": {
+                          "Bristol": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00026772,
+                      "clade": 15,
+                      "muts": [
+                        "G1462T",
+                        "C4099T",
+                        "T10210C",
+                        "C10781T"
+                      ],
+                      "strain": "KX029249",
+                      "yvalue": 36
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0002526272239974439,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2004-07-10",
+                        "div": 0.004721761928178319,
+                        "num_date": 2004.52432067396,
+                        "num_date_confidence": [
+                          2003.2962626239391,
+                          2006.4542231089438
+                        ],
+                        "state": "Plymouth",
+                        "state_confidence": {
+                          "Bristol": 0.4356814450592315,
+                          "Middlesex": 0.0034528843481560455,
+                          "Plymouth": 0.5576989673535772
+                        },
+                        "state_entropy": 0.7340461211277436
+                      },
+                      "branch_length": 0.00025263,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KX029231",
+                            "clock_length": 0.00028781172610078433,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2006-08-02",
+                            "div": 0.004893219892766046,
+                            "num_date": 2006.5859000684463,
+                            "num_date_confidence": [
+                              2006.5859000684463,
+                              2006.5859000684463
+                            ],
+                            "raw_date": "2006-08-02",
+                            "state": "Bristol",
+                            "state_confidence": {
+                              "Bristol": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.00028781,
+                          "clade": 16,
+                          "muts": [
+                            "C4675T",
+                            "C4723T"
+                          ],
+                          "strain": "KX029231",
+                          "yvalue": 35
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0001748971772982397,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2005-10-10",
+                            "div": 0.004721761928178319,
+                            "num_date": 2005.7770994323405,
+                            "num_date_confidence": [
+                              2003.636444811954,
+                              2006.4489792121117
+                            ],
+                            "state": "Plymouth",
+                            "state_confidence": {
+                              "Bristol": 0.017371934413660375,
+                              "Plymouth": 0.9815134888310441
+                            },
+                            "state_entropy": 0.0994099614219524
+                          },
+                          "branch_length": 0.0001749,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "EEEVgp3": [
+                                  "A430V"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "KX029305",
+                                "clock_length": 0.00011750123935420822,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2006-08-14",
+                                "div": 0.004893219899840145,
+                                "num_date": 2006.6187542778919,
+                                "num_date_confidence": [
+                                  2006.6187542778919,
+                                  2006.6187542778919
+                                ],
+                                "raw_date": "2006-08-14",
+                                "state": "Plymouth",
+                                "state_confidence": {
+                                  "Plymouth": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.0001175,
+                              "clade": 17,
+                              "muts": [
+                                "G2725T",
+                                "C11280T"
+                              ],
+                              "strain": "KX029305",
+                              "yvalue": 34
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KX029292",
+                                "clock_length": 0.00011215010037725131,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2006-07-30",
+                                "div": 0.004721761928178319,
+                                "num_date": 2006.580424366872,
+                                "num_date_confidence": [
+                                  2006.580424366872,
+                                  2006.580424366872
+                                ],
+                                "raw_date": "2006-07-31",
+                                "state": "Plymouth",
+                                "state_confidence": {
+                                  "Plymouth": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.00011215,
+                              "clade": 18,
+                              "muts": [],
+                              "strain": "KX029292",
+                              "yvalue": 33
+                            }
+                          ],
+                          "clade": 19,
+                          "muts": [],
+                          "strain": "NODE_0000018",
+                          "yvalue": 33.5
+                        }
+                      ],
+                      "clade": 20,
+                      "muts": [],
+                      "strain": "NODE_0000017",
+                      "yvalue": 34.25
+                    }
+                  ],
+                  "clade": 21,
+                  "muts": [
+                    "G713T",
+                    "T1183C",
+                    "G1651A",
+                    "C1705T",
+                    "T2080G",
+                    "T2311G",
+                    "C3079T",
+                    "C3119T",
+                    "A3607G",
+                    "A5183C",
+                    "C5253T",
+                    "C5428T",
+                    "C6664A",
+                    "C7195T",
+                    "T7714C",
+                    "C8242T",
+                    "T8491C",
+                    "T9016A",
+                    "T9076C",
+                    "T9695G",
+                    "A9820G",
+                    "T10903C",
+                    "T11152C",
+                    "A11328C"
+                  ],
+                  "strain": "NODE_0000031",
+                  "yvalue": 36.125
+                }
+              ],
+              "clade": 22,
+              "muts": [
+                "C523T",
+                "T2653C",
+                "A6049G",
+                "G6316A",
+                "A7141C",
+                "T7572C",
+                "C9109T",
+                "C9196T",
+                "C9359T",
+                "A9565T",
+                "T10354C",
+                "T11131C"
+              ],
+              "strain": "NODE_0000028",
+              "yvalue": 38.1875
+            }
+          ],
+          "clade": 23,
+          "muts": [
+            "C1306T",
+            "T2635C",
+            "T4441C",
+            "T10912C"
+          ],
+          "strain": "NODE_0000027",
+          "yvalue": 40.09375
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.00019651305728928675,
+            "country": "USA",
+            "country_confidence": {
+              "USA": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "1984-08-22",
+            "div": 0.0013733206915199254,
+            "num_date": 1984.6412967030851,
+            "num_date_confidence": [
+              1966.5256186054219,
+              1988.298668092358
+            ],
+            "state": "Santa_Rosa_County_FL",
+            "state_confidence": {
+              "Levy_County_FL": 0.08697185204897756,
+              "Plymouth": 0.048929586400439685,
+              "Santa_Rosa_County_FL": 0.5676385195506386,
+              "Suwannee_County_FL": 0.128748995157336
+            },
+            "state_entropy": 1.6943820431475445
+          },
+          "branch_length": 0.00019651,
+          "children": [
+            {
+              "aa_muts": {
+                "EEEVgp1": [
+                  "S378G",
+                  "S463I",
+                  "Q530R"
+                ],
+                "EEEVgp2": [
+                  "S600N"
+                ],
+                "EEEVgp4": [
+                  "F40L"
+                ]
+              },
+              "attr": {
+                "accession": "KU840299",
+                "clock_length": 0.0033095901617163606,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2008-05-06",
+                "div": 0.005243939950675364,
+                "num_date": 2008.3477070499657,
+                "num_date_confidence": [
+                  2008.3477070499657,
+                  2008.3477070499657
+                ],
+                "raw_date": "2008-05-06",
+                "state": "Suwannee_County_FL",
+                "state_confidence": {
+                  "Suwannee_County_FL": 1.0
+                },
+                "state_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 0.00330959,
+              "clade": 24,
+              "muts": [
+                "C2335T",
+                "T2500C",
+                "C2557T",
+                "A3871G",
+                "C3931T",
+                "T4327G",
+                "G4726A",
+                "A5156G",
+                "C5204T",
+                "T5395C",
+                "G5412T",
+                "A5419C",
+                "A5613G",
+                "C5635T",
+                "G6127A",
+                "C6991T",
+                "C7009T",
+                "C7228T",
+                "G7482A",
+                "C7618T",
+                "G8032A",
+                "T8239C",
+                "A8263C",
+                "C8293T",
+                "T8632C",
+                "A8866G",
+                "A8983G",
+                "T9199C",
+                "A9406G",
+                "G9433A",
+                "A9565G",
+                "C9823T",
+                "C9856T",
+                "C9859T",
+                "T9871C",
+                "T9938C",
+                "G10306A",
+                "A10489G",
+                "G10501T",
+                "A10543G",
+                "C10636T",
+                "C10693T",
+                "T10927C",
+                "T11322C",
+                "C11337T"
+              ],
+              "strain": "KU840299",
+              "yvalue": 32
+            },
+            {
+              "aa_muts": {
+                "EEEVgp1": [
+                  "V64I"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.00221570706404664,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2000-07-06",
+                "div": 0.004554510221459757,
+                "num_date": 2000.5122832307738,
+                "num_date_confidence": [
+                  1993.441395420103,
+                  2002.6144971868584
+                ],
+                "state": "Levy_County_FL",
+                "state_confidence": {
+                  "Levy_County_FL": 0.32709511401777996,
+                  "Plymouth": 0.19699334516793796,
+                  "Santa_Rosa_County_FL": 0.14194274950836067,
+                  "Worcester": 0.14969732927990745
+                },
+                "state_entropy": 2.050679627802297
+              },
+              "branch_length": 0.00221571,
+              "children": [
+                {
+                  "aa_muts": {
+                    "EEEVgp1": [
+                      "S458P"
+                    ],
+                    "EEEVgp4": [
+                      "P79S"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "KU840323",
+                    "clock_length": 0.001949491997662727,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2014-06-23",
+                    "div": 0.006529393023134596,
+                    "num_date": 2014.476386036961,
+                    "num_date_confidence": [
+                      2014.476386036961,
+                      2014.476386036961
+                    ],
+                    "raw_date": "2014-06-23",
+                    "state": "Levy_County_FL",
+                    "state_confidence": {
+                      "Levy_County_FL": 1.0
+                    },
+                    "state_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 0.00194949,
+                  "clade": 25,
+                  "muts": [
+                    "A97G",
+                    "C148T",
+                    "T1381C",
+                    "G1845A",
+                    "C2530T",
+                    "T2690C",
+                    "T3751C",
+                    "T4012C",
+                    "T4591G",
+                    "T5396C",
+                    "T5416C",
+                    "C6385T",
+                    "G7996A",
+                    "T8239C",
+                    "T8591C",
+                    "G9292A",
+                    "C9352T",
+                    "G9377A",
+                    "A9562G",
+                    "C9739T",
+                    "C9859T",
+                    "C10054T",
+                    "C10270T"
+                  ],
+                  "strain": "KU840323",
+                  "yvalue": 31
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00010010393788471633,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2001-03-24",
+                    "div": 0.004640226156380474,
+                    "num_date": 2001.2293221730226,
+                    "num_date_confidence": [
+                      1994.2914404581886,
+                      2003.1042865233217
+                    ],
+                    "state": "Plymouth",
+                    "state_confidence": {
+                      "Levy_County_FL": 0.11229456599497994,
+                      "Plymouth": 0.3921674794576125,
+                      "Santa_Rosa_County_FL": 0.05101962898241519,
+                      "Worcester": 0.3057649470866711
+                    },
+                    "state_entropy": 1.7587230562667289
+                  },
+                  "branch_length": 0.0001001,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0013173235534227425,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2010-08-30",
+                        "div": 0.005927418465711537,
+                        "num_date": 2010.6652375556255,
+                        "num_date_confidence": [
+                          2009.8852775859352,
+                          2011.6606940637387
+                        ],
+                        "state": "Worcester",
+                        "state_confidence": {
+                          "Levy_County_FL": 0.004067697463940191,
+                          "Norfolk": 0.01649159507503978,
+                          "Plymouth": 0.013676998361557214,
+                          "Worcester": 0.9537091376114993
+                        },
+                        "state_entropy": 0.2797484684637517
+                      },
+                      "branch_length": 0.00131732,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KX029317",
+                            "clock_length": 0.00014534915921750238,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2011-09-15",
+                            "div": 0.0060988794738832015,
+                            "num_date": 2011.7063655030802,
+                            "num_date_confidence": [
+                              2011.7063655030802,
+                              2011.7063655030802
+                            ],
+                            "raw_date": "2011-09-15",
+                            "state": "Worcester",
+                            "state_confidence": {
+                              "Worcester": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.00014535,
+                          "clade": 26,
+                          "muts": [
+                            "T5272A",
+                            "A9664G"
+                          ],
+                          "strain": "KX029317",
+                          "yvalue": 30
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00011984962470591005,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2011-07-10",
+                            "div": 0.005927418465711539,
+                            "num_date": 2011.5237137549034,
+                            "num_date_confidence": [
+                              2010.819366509423,
+                              2011.7036276522929
+                            ],
+                            "state": "Worcester",
+                            "state_confidence": {
+                              "Levy_County_FL": 0.0013484515914130978,
+                              "Norfolk": 0.04570160866137368,
+                              "Plymouth": 0.0039278626643308775,
+                              "Worcester": 0.9416230551910988
+                            },
+                            "state_entropy": 0.28527094459549435
+                          },
+                          "branch_length": 0.00011985,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KX029301",
+                                "clock_length": 2.5117310298929845e-05,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2011-09-13",
+                                "div": 0.005927418465711541,
+                                "num_date": 2011.7036276522929,
+                                "num_date_confidence": [
+                                  2011.7036276522929,
+                                  2011.7036276522929
+                                ],
+                                "raw_date": "2011-09-14",
+                                "state": "Norfolk",
+                                "state_confidence": {
+                                  "Norfolk": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 2.512e-05,
+                              "clade": 27,
+                              "muts": [],
+                              "strain": "KX029301",
+                              "yvalue": 29
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KX029291",
+                                "clock_length": 0.00016663582502863855,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2012-09-19",
+                                "div": 0.006013132915489122,
+                                "num_date": 2012.7173169062287,
+                                "num_date_confidence": [
+                                  2012.7173169062287,
+                                  2012.7173169062287
+                                ],
+                                "raw_date": "2012-09-18",
+                                "state": "Worcester",
+                                "state_confidence": {
+                                  "Worcester": 0.9999999999999999
+                                },
+                                "state_entropy": -9.99866855976916e-13
+                              },
+                              "branch_length": 0.00016664,
+                              "clade": 28,
+                              "muts": [
+                                "C8873T"
+                              ],
+                              "strain": "KX029291",
+                              "yvalue": 28
+                            }
+                          ],
+                          "clade": 29,
+                          "muts": [],
+                          "strain": "NODE_0000023",
+                          "yvalue": 28.5
+                        }
+                      ],
+                      "clade": 30,
+                      "muts": [
+                        "C2050T",
+                        "G3068A",
+                        "C3856A",
+                        "C4213T",
+                        "C4447T",
+                        "A5512G",
+                        "C6080T",
+                        "G6511A",
+                        "T7001C",
+                        "G8203A",
+                        "A8368G",
+                        "C8775T",
+                        "C9139T",
+                        "C10684T",
+                        "T10984C"
+                      ],
+                      "strain": "NODE_0000039",
+                      "yvalue": 29.25
+                    },
+                    {
+                      "aa_muts": {
+                        "EEEVgp1": [
+                          "Q525R"
+                        ],
+                        "EEEVgp2": [
+                          "A276S"
+                        ],
+                        "EEEVgp3": [
+                          "I116T"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0008889303768147101,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2007-08-05",
+                        "div": 0.006185190265394726,
+                        "num_date": 2007.596681046137,
+                        "num_date_confidence": [
+                          2006.5360489907196,
+                          2008.5496293155238
+                        ],
+                        "state": "Plymouth",
+                        "state_confidence": {
+                          "Bristol": 0.042562034323700315,
+                          "Middlesex": 0.038753092156910064,
+                          "Plymouth": 0.862901084808395,
+                          "Worcester": 0.025485264586370213
+                        },
+                        "state_entropy": 0.6580491938651268
+                      },
+                      "branch_length": 0.00088893,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00037835866267582467,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2010-04-22",
+                            "div": 0.006356576162945723,
+                            "num_date": 2010.3068431137685,
+                            "num_date_confidence": [
+                              2008.3017808896752,
+                              2011.1593871562432
+                            ],
+                            "state": "Plymouth",
+                            "state_confidence": {
+                              "Bristol": 0.0695289802168616,
+                              "Middlesex": 0.10502948732425554,
+                              "Plymouth": 0.8003847478732866,
+                              "Worcester": 0.00755217023422929
+                            },
+                            "state_entropy": 0.754375326008993
+                          },
+                          "branch_length": 0.00037836,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KX029316",
+                                "clock_length": 0.0003261999099254734,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2012-08-22",
+                                "div": 0.006527978413944576,
+                                "num_date": 2012.643394934976,
+                                "num_date_confidence": [
+                                  2012.643394934976,
+                                  2012.643394934976
+                                ],
+                                "raw_date": "2012-08-22",
+                                "state": "Middlesex",
+                                "state_confidence": {
+                                  "Middlesex": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.0003262,
+                              "clade": 31,
+                              "muts": [
+                                "C2530T",
+                                "C3540A"
+                              ],
+                              "strain": "KX029316",
+                              "yvalue": 27
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 3.874389859837208e-05,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2010-08-01",
+                                "div": 0.006442263890060739,
+                                "num_date": 2010.5843635056392,
+                                "num_date_confidence": [
+                                  2009.8235943841846,
+                                  2012.1443329553333
+                                ],
+                                "state": "Plymouth",
+                                "state_confidence": {
+                                  "Bristol": 0.14243866086852522,
+                                  "Middlesex": 0.021909766416183262,
+                                  "Plymouth": 0.8256792903841045,
+                                  "Worcester": 0.0017054576664600695
+                                },
+                                "state_entropy": 0.5928693120682038
+                              },
+                              "branch_length": 3.874e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KX029295",
+                                    "clock_length": 0.00028401599341336143,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2012-08-14",
+                                    "div": 0.006613652543045825,
+                                    "num_date": 2012.6187542778919,
+                                    "num_date_confidence": [
+                                      2012.6187542778919,
+                                      2012.6187542778919
+                                    ],
+                                    "raw_date": "2012-08-13",
+                                    "state": "Bristol",
+                                    "state_confidence": {
+                                      "Bristol": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.00028402,
+                                  "clade": 32,
+                                  "muts": [
+                                    "G8410A",
+                                    "C9422T"
+                                  ],
+                                  "strain": "KX029295",
+                                  "yvalue": 26
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KX029244",
+                                    "clock_length": 0.0002767537333732194,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2012-07-26",
+                                    "div": 0.006785095891387476,
+                                    "num_date": 2012.5667351129364,
+                                    "num_date_confidence": [
+                                      2012.5667351129364,
+                                      2012.5667351129364
+                                    ],
+                                    "raw_date": "2012-07-25",
+                                    "state": "Plymouth",
+                                    "state_confidence": {
+                                      "Plymouth": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.00027675,
+                                  "clade": 33,
+                                  "muts": [
+                                    "G9511A",
+                                    "T10843C",
+                                    "C10846T",
+                                    "A10849G"
+                                  ],
+                                  "strain": "KX029244",
+                                  "yvalue": 25
+                                }
+                              ],
+                              "clade": 34,
+                              "muts": [
+                                "T3314C"
+                              ],
+                              "strain": "NODE_0000043",
+                              "yvalue": 25.5
+                            }
+                          ],
+                          "clade": 35,
+                          "muts": [
+                            "G4075A",
+                            "T6469C"
+                          ],
+                          "strain": "NODE_0000042",
+                          "yvalue": 26.25
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 8.857254674296674e-05,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2008-03-25",
+                            "div": 0.006270875274952546,
+                            "num_date": 2008.2311212746722,
+                            "num_date_confidence": [
+                              2007.5322587244361,
+                              2008.596787257839
+                            ],
+                            "state": "Plymouth",
+                            "state_confidence": {
+                              "Bristol": 0.02622218611851847,
+                              "Plymouth": 0.9727456368398285
+                            },
+                            "state_entropy": 0.13146375973427932
+                          },
+                          "branch_length": 8.857e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KX029243",
+                                "clock_length": 0.000205572777536922,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-09-13",
+                                "div": 0.006356560332983681,
+                                "num_date": 2009.7036276522929,
+                                "num_date_confidence": [
+                                  2009.7036276522929,
+                                  2009.7036276522929
+                                ],
+                                "raw_date": "2009-09-14",
+                                "state": "Bristol",
+                                "state_confidence": {
+                                  "Bristol": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.00020557,
+                              "clade": 36,
+                              "muts": [
+                                "T7554C"
+                              ],
+                              "strain": "KX029243",
+                              "yvalue": 24
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KX029263",
+                                "clock_length": 5.449865749125506e-05,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2008-08-14",
+                                "div": 0.0063565589648927,
+                                "num_date": 2008.621492128679,
+                                "num_date_confidence": [
+                                  2008.621492128679,
+                                  2008.621492128679
+                                ],
+                                "raw_date": "2008-08-14",
+                                "state": "Plymouth",
+                                "state_confidence": {
+                                  "Plymouth": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 5.45e-05,
+                              "clade": 37,
+                              "muts": [
+                                "C7575T"
+                              ],
+                              "strain": "KX029263",
+                              "yvalue": 23
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KX029278",
+                                "clock_length": 6.290759016932103e-05,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2008-09-05",
+                                "div": 0.006442264701175047,
+                                "num_date": 2008.6817248459959,
+                                "num_date_confidence": [
+                                  2008.6817248459959,
+                                  2008.6817248459959
+                                ],
+                                "raw_date": "2008-09-05",
+                                "state": "Plymouth",
+                                "state_confidence": {
+                                  "Plymouth": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 6.291e-05,
+                              "clade": 38,
+                              "muts": [
+                                "A1690C",
+                                "T4126C"
+                              ],
+                              "strain": "KX029278",
+                              "yvalue": 22
+                            }
+                          ],
+                          "clade": 39,
+                          "muts": [
+                            "C9442T"
+                          ],
+                          "strain": "NODE_0000044",
+                          "yvalue": 23.0
+                        }
+                      ],
+                      "clade": 40,
+                      "muts": [
+                        "C478T",
+                        "C1306T",
+                        "A1396C",
+                        "C1912T",
+                        "A2107G",
+                        "C2542T",
+                        "C4096T",
+                        "A5598G",
+                        "C6001T",
+                        "G6509T",
+                        "T6524C",
+                        "A7192T",
+                        "C7814T",
+                        "G9137A",
+                        "A9511G",
+                        "T10338C",
+                        "A10597C",
+                        "C11093T"
+                      ],
+                      "strain": "NODE_0000041",
+                      "yvalue": 24.625
+                    }
+                  ],
+                  "clade": 41,
+                  "muts": [
+                    "T6136C"
+                  ],
+                  "strain": "NODE_0000038",
+                  "yvalue": 26.9375
+                }
+              ],
+              "clade": 42,
+              "muts": [
+                "T238C",
+                "G241A",
+                "T286C",
+                "A295G",
+                "C433T",
+                "G691A",
+                "T1190C",
+                "A1726T",
+                "A2734G",
+                "G3064A",
+                "G3118T",
+                "T3556C",
+                "A3607G",
+                "C4111A",
+                "T4150C",
+                "G4214A",
+                "C5095T",
+                "A5263G",
+                "T5314C",
+                "C5332T",
+                "G5911A",
+                "C5962T",
+                "G6088A",
+                "T6400C",
+                "T6784C",
+                "C7078T",
+                "A7327G",
+                "C7435T",
+                "C7579T",
+                "A7582C",
+                "C7732T",
+                "T7978A",
+                "T8458C",
+                "G9070A",
+                "C10843T",
+                "T10846C",
+                "G10849A"
+              ],
+              "strain": "NODE_0000037",
+              "yvalue": 28.96875
+            }
+          ],
+          "clade": 43,
+          "muts": [
+            "G6391A"
+          ],
+          "strain": "NODE_0000036",
+          "yvalue": 30.484375
+        },
+        {
+          "aa_muts": {
+            "EEEVgp1": [
+              "N506T"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.00023658881053342708,
+            "country": "USA",
+            "country_confidence": {
+              "USA": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "1984-12-05",
+            "div": 0.0014590585992066546,
+            "num_date": 1984.928357095745,
+            "num_date_confidence": [
+              1967.7963653282663,
+              1989.0700680998577
+            ],
+            "state": "Santa_Rosa_County_FL",
+            "state_confidence": {
+              "Levy_County_FL": 0.01166408045400501,
+              "Middlesex": 0.030678320252299225,
+              "Oswego_NY": 0.013342855514385334,
+              "Santa_Rosa_County_FL": 0.8792326853121395
+            },
+            "state_entropy": 0.6797174237002384
+          },
+          "branch_length": 0.00023659,
+          "children": [
+            {
+              "aa_muts": {
+                "EEEVgp2": [
+                  "G415W"
+                ]
+              },
+              "attr": {
+                "accession": "KX029273",
+                "clock_length": 0.0034488731202531944,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2009-08-18",
+                "div": 0.004814209978248729,
+                "num_date": 2009.6324435318274,
+                "num_date_confidence": [
+                  2009.6324435318274,
+                  2009.6324435318274
+                ],
+                "raw_date": "2009-08-19",
+                "state": "Middlesex",
+                "state_confidence": {
+                  "Middlesex": 1.0
+                },
+                "state_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 0.00344887,
+              "clade": 44,
+              "muts": [
+                "T214C",
+                "C877T",
+                "T991C",
+                "C1027T",
+                "T1984C",
+                "T2197C",
+                "G2260C",
+                "C2413T",
+                "C2503T",
+                "C2530T",
+                "T2569C",
+                "C2812T",
+                "C3226T",
+                "C3703T",
+                "C4132T",
+                "C4540T",
+                "T5104C",
+                "C5855T",
+                "T5932G",
+                "C6568T",
+                "T6655C",
+                "A6751G",
+                "T6820A",
+                "G6926T",
+                "C7096T",
+                "C7261T",
+                "G7723A",
+                "T7815C",
+                "T8239C",
+                "G8359A",
+                "T8458C",
+                "T8962C",
+                "A9478G",
+                "C9766T",
+                "T10312C",
+                "C10513T",
+                "G10546A",
+                "G10744A",
+                "C10768T"
+              ],
+              "strain": "KX029273",
+              "yvalue": 21
+            },
+            {
+              "aa_muts": {
+                "EEEVgp2": [
+                  "A372S"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.0009798881546571785,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "1991-12-11",
+                "div": 0.002832186453542186,
+                "num_date": 1991.9472414751644,
+                "num_date_confidence": [
+                  1982.029772327779,
+                  1995.745972042298
+                ],
+                "state": "Santa_Rosa_County_FL",
+                "state_confidence": {
+                  "Orange_County_FL": 0.017207524245117973,
+                  "Oswego_NY": 0.02071596083499522,
+                  "Santa_Rosa_County_FL": 0.8595136493766787,
+                  "Union_County_FL": 0.016484496234104508
+                },
+                "state_entropy": 0.7720958583445232
+              },
+              "branch_length": 0.00097989,
+              "children": [
+                {
+                  "aa_muts": {
+                    "EEEVgp3": [
+                      "R246K"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.0010175042722865607,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "1999-03-27",
+                    "div": 0.004033232594817769,
+                    "num_date": 1999.2355680140672,
+                    "num_date_confidence": [
+                      1995.390535878697,
+                      2001.2237418078494
+                    ],
+                    "state": "Santa_Rosa_County_FL",
+                    "state_confidence": {
+                      "Montgomery_NY": 0.025144910369153787,
+                      "Orange_County_FL": 0.005711145173525018,
+                      "Oswego_NY": 0.037222637930369375,
+                      "Santa_Rosa_County_FL": 0.8931467677991293
+                    },
+                    "state_entropy": 0.5733524683567277
+                  },
+                  "branch_length": 0.0010175,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "EEEVgp1": [
+                          "V469M"
+                        ],
+                        "EEEVgp2": [
+                          "K40R"
+                        ],
+                        "EEEVgp3": [
+                          "V413M"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "KU840317",
+                        "clock_length": 0.0003705506199656325,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2001-11-21",
+                        "div": 0.004547601642454439,
+                        "num_date": 2001.889801505818,
+                        "num_date_confidence": [
+                          2001.889801505818,
+                          2001.889801505818
+                        ],
+                        "raw_date": "2001-11-21",
+                        "state": "Santa_Rosa_County_FL",
+                        "state_confidence": {
+                          "Santa_Rosa_County_FL": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00037055,
+                      "clade": 45,
+                      "muts": [
+                        "C3667T",
+                        "G5429A",
+                        "A5802G",
+                        "A10510C",
+                        "G11228A",
+                        "A11333G"
+                      ],
+                      "strain": "KU840317",
+                      "yvalue": 20
+                    },
+                    {
+                      "aa_muts": {
+                        "EEEVgp1": [
+                          "T529A"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0012553473725882172,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2008-03-24",
+                        "div": 0.005148249290613569,
+                        "num_date": 2008.227551458634,
+                        "num_date_confidence": [
+                          2006.023415809675,
+                          2008.9148228658673
+                        ],
+                        "state": "Oswego_NY",
+                        "state_confidence": {
+                          "Middlesex": 0.004634161253546036,
+                          "Montgomery_NY": 0.3142148529633533,
+                          "Oswego_NY": 0.38137326090532436,
+                          "Santa_Rosa_County_FL": 0.23929246664266707
+                        },
+                        "state_entropy": 1.4387867490475008
+                      },
+                      "branch_length": 0.00125535,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KX000064",
+                            "clock_length": 0.00021027561658889127,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-09-24",
+                            "div": 0.005405367538648431,
+                            "num_date": 2009.7337440109513,
+                            "num_date_confidence": [
+                              2009.7337440109513,
+                              2009.7337440109513
+                            ],
+                            "raw_date": "2009-09-25",
+                            "state": "Montgomery_NY",
+                            "state_confidence": {
+                              "Montgomery_NY": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.00021028,
+                          "clade": 46,
+                          "muts": [
+                            "G3589A",
+                            "T7565C",
+                            "T8938C"
+                          ],
+                          "strain": "KX000064",
+                          "yvalue": 19
+                        },
+                        {
+                          "aa_muts": {
+                            "EEEVgp1": [
+                              "V351I"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.0001879178081933314,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-07-28",
+                            "div": 0.005319645884919737,
+                            "num_date": 2009.5735962722938,
+                            "num_date_confidence": [
+                              2008.6618432047233,
+                              2010.6026932591762
+                            ],
+                            "state": "Oswego_NY",
+                            "state_confidence": {
+                              "Oswego_NY": 0.9989232800295939
+                            },
+                            "state_entropy": 0.010220109021800323
+                          },
+                          "branch_length": 0.00018792,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KX000191",
+                                "clock_length": 0.00016120075363679014,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2010-09-23",
+                                "div": 0.005491042764656261,
+                                "num_date": 2010.7282683093772,
+                                "num_date_confidence": [
+                                  2010.7282683093772,
+                                  2010.7282683093772
+                                ],
+                                "raw_date": "2010-09-23",
+                                "state": "Oswego_NY",
+                                "state_confidence": {
+                                  "Oswego_NY": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.0001612,
+                              "clade": 47,
+                              "muts": [
+                                "G8185A",
+                                "G10603A"
+                              ],
+                              "strain": "KX000191",
+                              "yvalue": 18
+                            },
+                            {
+                              "aa_muts": {
+                                "EEEVgp1": [
+                                  "T129I",
+                                  "P519Q"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "KX000154",
+                                "clock_length": 0.00028131471245867166,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2011-08-03",
+                                "div": 0.0056625206619809665,
+                                "num_date": 2011.5886379192334,
+                                "num_date_confidence": [
+                                  2011.5886379192334,
+                                  2011.5886379192334
+                                ],
+                                "raw_date": "2011-08-03",
+                                "state": "Oswego_NY",
+                                "state_confidence": {
+                                  "Oswego_NY": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.00028131,
+                              "clade": 48,
+                              "muts": [
+                                "C3841T",
+                                "T3907C",
+                                "C4410T",
+                                "C5580A"
+                              ],
+                              "strain": "KX000154",
+                              "yvalue": 17
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.00013455739945375652,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2010-07-15",
+                                "div": 0.005319645884919739,
+                                "num_date": 2010.5374234444794,
+                                "num_date_confidence": [
+                                  2009.402852198958,
+                                  2010.6461327857633
+                                ],
+                                "state": "Oswego_NY",
+                                "state_confidence": {
+                                  "Onondaga_NY": 0.02163689466520332,
+                                  "Oswego_NY": 0.9747469615389271
+                                },
+                                "state_entropy": 0.13860923265993447
+                              },
+                              "branch_length": 0.00013456,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "EEEVgp1": [
+                                      "G186D"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KX000174",
+                                    "clock_length": 0.00014905065828076276,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2011-08-09",
+                                    "div": 0.0054910437529932035,
+                                    "num_date": 2011.6050650239563,
+                                    "num_date_confidence": [
+                                      2011.6050650239563,
+                                      2011.6050650239563
+                                    ],
+                                    "raw_date": "2011-08-09",
+                                    "state": "Oswego_NY",
+                                    "state_confidence": {
+                                      "Oswego_NY": 0.9999999999999999
+                                    },
+                                    "state_entropy": -9.99866855976916e-13
+                                  },
+                                  "branch_length": 0.00014905,
+                                  "clade": 49,
+                                  "muts": [
+                                    "G4581A",
+                                    "T7090C"
+                                  ],
+                                  "strain": "KX000174",
+                                  "yvalue": 16
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KX000080",
+                                    "clock_length": 1.5176627803858587e-05,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2010-08-24",
+                                    "div": 0.00531964588491974,
+                                    "num_date": 2010.6461327857633,
+                                    "num_date_confidence": [
+                                      2010.6461327857633,
+                                      2010.6461327857633
+                                    ],
+                                    "raw_date": "2010-08-24",
+                                    "state": "Onondaga_NY",
+                                    "state_confidence": {
+                                      "Onondaga_NY": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 1.518e-05,
+                                  "clade": 50,
+                                  "muts": [],
+                                  "strain": "KX000080",
+                                  "yvalue": 15
+                                }
+                              ],
+                              "clade": 51,
+                              "muts": [],
+                              "strain": "NODE_0000033",
+                              "yvalue": 15.5
+                            }
+                          ],
+                          "clade": 52,
+                          "muts": [
+                            "A3982G",
+                            "G5075A"
+                          ],
+                          "strain": "NODE_0000016",
+                          "yvalue": 16.75
+                        }
+                      ],
+                      "clade": 53,
+                      "muts": [
+                        "T190C",
+                        "T214C",
+                        "C334T",
+                        "C916T",
+                        "C1504T",
+                        "T2860C",
+                        "G3028A",
+                        "A3781G",
+                        "G4807A",
+                        "T5503C",
+                        "A5609G",
+                        "C7397T",
+                        "C9205T"
+                      ],
+                      "strain": "NODE_0000015",
+                      "yvalue": 17.875
+                    }
+                  ],
+                  "clade": 54,
+                  "muts": [
+                    "G1388A",
+                    "C1624T",
+                    "C1744T",
+                    "T2923C",
+                    "C4267T",
+                    "C6079T",
+                    "C6196T",
+                    "A8461T",
+                    "T9169C",
+                    "A10237G",
+                    "T10357C",
+                    "C10655T",
+                    "G10728A",
+                    "C11077T"
+                  ],
+                  "strain": "NODE_0000014",
+                  "yvalue": 18.9375
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00029461409954469487,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "1994-01-21",
+                    "div": 0.0031750854029724703,
+                    "num_date": 1994.0575458924827,
+                    "num_date_confidence": [
+                      1985.6410821264317,
+                      1997.085705352698
+                    ],
+                    "state": "Santa_Rosa_County_FL",
+                    "state_confidence": {
+                      "Essex": 0.1398287344709451,
+                      "Orange_County_FL": 0.14685465783791007,
+                      "Santa_Rosa_County_FL": 0.3561998671675453,
+                      "Union_County_FL": 0.1398288222980429
+                    },
+                    "state_entropy": 2.0525055470720224
+                  },
+                  "branch_length": 0.00029461,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "EEEVgp1": [
+                          "V334M"
+                        ],
+                        "EEEVgp4": [
+                          "L81V"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0008751899592837433,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2000-04-29",
+                        "div": 0.0040328624109714625,
+                        "num_date": 2000.3264829186583,
+                        "num_date_confidence": [
+                          1996.0584194681708,
+                          2001.8089371119509
+                        ],
+                        "state": "Union_County_FL",
+                        "state_confidence": {
+                          "Essex": 0.3779322906033691,
+                          "Orange_County_FL": 0.042237917056732674,
+                          "Santa_Rosa_County_FL": 0.10103918943599254,
+                          "Union_County_FL": 0.37793243225897144
+                        },
+                        "state_entropy": 1.6003332972456552
+                      },
+                      "branch_length": 0.00087519,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "EEEVgp1": [
+                              "T156I"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "KU840358",
+                            "clock_length": 0.0004263719172058083,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2003-05-18",
+                            "div": 0.004547355715778906,
+                            "num_date": 2003.3805612594113,
+                            "num_date_confidence": [
+                              2003.3805612594113,
+                              2003.3805612594113
+                            ],
+                            "raw_date": "2003-05-19",
+                            "state": "Union_County_FL",
+                            "state_confidence": {
+                              "Union_County_FL": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.00042637,
+                          "clade": 55,
+                          "muts": [
+                            "C2642T",
+                            "A3601T",
+                            "C4491T",
+                            "T6649C",
+                            "C8281T",
+                            "C8407T"
+                          ],
+                          "strain": "KU840358",
+                          "yvalue": 14
+                        },
+                        {
+                          "aa_muts": {
+                            "EEEVgp2": [
+                              "A483E",
+                              "S598T"
+                            ],
+                            "EEEVgp3": [
+                              "G194S"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "KX029289",
+                            "clock_length": 0.0008765364836417315,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2006-08-09",
+                            "div": 0.004977386660331559,
+                            "num_date": 2006.6050650239563,
+                            "num_date_confidence": [
+                              2006.6050650239563,
+                              2006.6050650239563
+                            ],
+                            "raw_date": "2006-08-09",
+                            "state": "Essex",
+                            "state_confidence": {
+                              "Essex": 0.9999999999999999
+                            },
+                            "state_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 0.00087654,
+                          "clade": 56,
+                          "muts": [
+                            "T1540A",
+                            "G2626C",
+                            "T4036C",
+                            "T5260C",
+                            "A6253G",
+                            "C7131A",
+                            "T7475A",
+                            "C8719T",
+                            "C10201T",
+                            "G10571A",
+                            "T10594C"
+                          ],
+                          "strain": "KX029289",
+                          "yvalue": 13
+                        }
+                      ],
+                      "clade": 57,
+                      "muts": [
+                        "C1645T",
+                        "C4624T",
+                        "G5024A",
+                        "T5227C",
+                        "C7313T",
+                        "C8206A",
+                        "T9424C",
+                        "T10060G",
+                        "G10774A",
+                        "A10996G"
+                      ],
+                      "strain": "NODE_0000000",
+                      "yvalue": 13.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00012449252695799409,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "1994-12-12",
+                        "div": 0.0032607905134555675,
+                        "num_date": 1994.9492789424914,
+                        "num_date_confidence": [
+                          1986.5885991228713,
+                          1997.4771471368304
+                        ],
+                        "state": "Orange_County_FL",
+                        "state_confidence": {
+                          "Alachua_County_FL": 0.21674000637575602,
+                          "Orange_County_FL": 0.40599383636198755,
+                          "Santa_Rosa_County_FL": 0.11526183337651157,
+                          "Union_County_FL": 0.04586315563287319
+                        },
+                        "state_entropy": 1.9742440120301015
+                      },
+                      "branch_length": 0.00012449,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "EEEVgp1": [
+                              "D376G"
+                            ],
+                            "EEEVgp2": [
+                              "K40R"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "KU840375",
+                            "clock_length": 0.0009119968580662274,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2001-06-24",
+                            "div": 0.004633632471858328,
+                            "num_date": 2001.4818617385351,
+                            "num_date_confidence": [
+                              2001.4818617385351,
+                              2001.4818617385351
+                            ],
+                            "raw_date": "2001-06-25",
+                            "state": "Orange_County_FL",
+                            "state_confidence": {
+                              "Orange_County_FL": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.000912,
+                          "clade": 58,
+                          "muts": [
+                            "C2326T",
+                            "C3004T",
+                            "A3143G",
+                            "A3165C",
+                            "C3532T",
+                            "C3648T",
+                            "C3694T",
+                            "A4405G",
+                            "A4411G",
+                            "A5151G",
+                            "A5802G",
+                            "T7001C",
+                            "T8564C",
+                            "T8626C",
+                            "C11185T",
+                            "C11209T"
+                          ],
+                          "strain": "KU840375",
+                          "yvalue": 12
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 8.914314686529973e-05,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "1995-08-02",
+                            "div": 0.0033464950663201743,
+                            "num_date": 1995.587806347983,
+                            "num_date_confidence": [
+                              1987.7134537377506,
+                              1998.318515602735
+                            ],
+                            "state": "Alachua_County_FL",
+                            "state_confidence": {
+                              "Alachua_County_FL": 0.5878404374398185,
+                              "Orange_County_FL": 0.07276593490960132,
+                              "Osceola_County_FL": 0.040922826558030416,
+                              "Worcester": 0.07429431027274798
+                            },
+                            "state_entropy": 1.6933738451978932
+                          },
+                          "branch_length": 8.914e-05,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "EEEVgp1": [
+                                  "D470N"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.002085632846478027,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2010-07-11",
+                                "div": 0.00549324552218891,
+                                "num_date": 2010.5270784861077,
+                                "num_date_confidence": [
+                                  2006.3681210790473,
+                                  2011.6914171248095
+                                ],
+                                "state": "Oneida_NY",
+                                "state_confidence": {
+                                  "Alachua_County_FL": 0.08867924820118353,
+                                  "Oneida_NY": 0.40101239616653256,
+                                  "Onondaga_NY": 0.3985665192826269,
+                                  "Worcester": 0.01293023430941827
+                                },
+                                "state_entropy": 1.5050762017934904
+                              },
+                              "branch_length": 0.00208563,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "EEEVgp1": [
+                                      "P457L"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KX000143",
+                                    "clock_length": 0.0005807837983352634,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2014-09-08",
+                                    "div": 0.0060076955630275755,
+                                    "num_date": 2014.6872005475702,
+                                    "num_date_confidence": [
+                                      2014.6872005475702,
+                                      2014.6872005475702
+                                    ],
+                                    "raw_date": "2014-09-08",
+                                    "state": "Oneida_NY",
+                                    "state_confidence": {
+                                      "Oneida_NY": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.00058078,
+                                  "clade": 59,
+                                  "muts": [
+                                    "A1402G",
+                                    "C4846T",
+                                    "C5394T",
+                                    "T6763C",
+                                    "T7561A",
+                                    "T10531C"
+                                  ],
+                                  "strain": "KX000143",
+                                  "yvalue": 11
+                                },
+                                {
+                                  "aa_muts": {
+                                    "EEEVgp1": [
+                                      "A462T"
+                                    ],
+                                    "EEEVgp2": [
+                                      "H557Y"
+                                    ],
+                                    "EEEVgp3": [
+                                      "D390E"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KX000123",
+                                    "clock_length": 0.0005788726772720464,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2014-09-02",
+                                    "div": 0.006265147788748347,
+                                    "num_date": 2014.6735112936344,
+                                    "num_date_confidence": [
+                                      2014.6735112936344,
+                                      2014.6735112936344
+                                    ],
+                                    "raw_date": "2014-09-03",
+                                    "state": "Onondaga_NY",
+                                    "state_confidence": {
+                                      "Onondaga_NY": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.00057887,
+                                  "clade": 60,
+                                  "muts": [
+                                    "A4834G",
+                                    "G5408A",
+                                    "C6793A",
+                                    "C7349T",
+                                    "C7352T",
+                                    "C9164T",
+                                    "C9250T",
+                                    "G10525A",
+                                    "T11161A"
+                                  ],
+                                  "strain": "KX000123",
+                                  "yvalue": 10
+                                }
+                              ],
+                              "clade": 61,
+                              "muts": [
+                                "T811C",
+                                "A1993G",
+                                "T2164C",
+                                "C2335T",
+                                "C2338T",
+                                "C5128A",
+                                "A5155G",
+                                "C5347T",
+                                "T5362C",
+                                "G5432A",
+                                "C5674T",
+                                "T6007C",
+                                "C6397T",
+                                "A6751C",
+                                "C6899T",
+                                "T7000C",
+                                "A7249G",
+                                "C7447T",
+                                "T8545C",
+                                "C9391T",
+                                "C9685T",
+                                "C9922T",
+                                "T10183C",
+                                "C10711T",
+                                "T11011C"
+                              ],
+                              "strain": "NODE_0000005",
+                              "yvalue": 10.5
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.00010302471047488005,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "1996-04-28",
+                                "div": 0.0034321996605644898,
+                                "num_date": 1996.325766621928,
+                                "num_date_confidence": [
+                                  1988.932625995964,
+                                  1999.2034651106492
+                                ],
+                                "state": "Alachua_County_FL",
+                                "state_confidence": {
+                                  "Alachua_County_FL": 0.31749969777333453,
+                                  "Bristol": 0.19614730250043938,
+                                  "Chautauqua_NY": 0.20981599185002142,
+                                  "Worcester": 0.04181866778111995
+                                },
+                                "state_entropy": 2.105337979903841
+                              },
+                              "branch_length": 0.00010302,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "EEEVgp3": [
+                                      "N361S"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KX029256",
+                                    "clock_length": 0.0024218734196087017,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2013-09-02",
+                                    "div": 0.005406776443967164,
+                                    "num_date": 2013.6735112936344,
+                                    "num_date_confidence": [
+                                      2013.6735112936344,
+                                      2013.6735112936344
+                                    ],
+                                    "raw_date": "2013-09-03",
+                                    "state": "Bristol",
+                                    "state_confidence": {
+                                      "Bristol": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.00242187,
+                                  "clade": 62,
+                                  "muts": [
+                                    "G1108A",
+                                    "T1578C",
+                                    "A1834G",
+                                    "G2389A",
+                                    "T3037C",
+                                    "C3106T",
+                                    "T3340C",
+                                    "A3616G",
+                                    "T3874C",
+                                    "G3970A",
+                                    "C3994T",
+                                    "C4087T",
+                                    "C4336T",
+                                    "G4927A",
+                                    "G6391A",
+                                    "C6394T",
+                                    "C8833T",
+                                    "T8986G",
+                                    "T9805C",
+                                    "C9910T",
+                                    "C10132T",
+                                    "A11073G",
+                                    "C11107T"
+                                  ],
+                                  "strain": "KX029256",
+                                  "yvalue": 9
+                                },
+                                {
+                                  "aa_muts": {
+                                    "EEEVgp1": [
+                                      "Q371R",
+                                      "A537T"
+                                    ],
+                                    "EEEVgp2": [
+                                      "V506I"
+                                    ],
+                                    "EEEVgp3": [
+                                      "K54R",
+                                      "A374V"
+                                    ],
+                                    "EEEVgp4": [
+                                      "R84C"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KX000073",
+                                    "clock_length": 0.0024176689532696685,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2013-08-22",
+                                    "div": 0.006786154274740587,
+                                    "num_date": 2013.643394934976,
+                                    "num_date_confidence": [
+                                      2013.643394934976,
+                                      2013.643394934976
+                                    ],
+                                    "raw_date": "2013-08-23",
+                                    "state": "Chautauqua_NY",
+                                    "state_confidence": {
+                                      "Chautauqua_NY": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.00241767,
+                                  "clade": 63,
+                                  "muts": [
+                                    "C916T",
+                                    "C1052T",
+                                    "C2236T",
+                                    "T2437C",
+                                    "A2488G",
+                                    "T2653C",
+                                    "T2929C",
+                                    "T3653C",
+                                    "T4618C",
+                                    "T4687A",
+                                    "T5116C",
+                                    "A5136G",
+                                    "T5365C",
+                                    "G5633A",
+                                    "C6448T",
+                                    "A6670G",
+                                    "G6799A",
+                                    "A6904G",
+                                    "C7150T",
+                                    "G7199A",
+                                    "G7258A",
+                                    "T7411A",
+                                    "C8030T",
+                                    "A8368G",
+                                    "T8986A",
+                                    "G9124T",
+                                    "A9142G",
+                                    "A9664G",
+                                    "C10069T",
+                                    "A10152G",
+                                    "T10183G",
+                                    "C10411T",
+                                    "G10744T",
+                                    "G10747A",
+                                    "G10789A",
+                                    "T11032A",
+                                    "C11101A",
+                                    "C11112T",
+                                    "C11366T"
+                                  ],
+                                  "strain": "KX000073",
+                                  "yvalue": 8
+                                }
+                              ],
+                              "clade": 64,
+                              "muts": [
+                                "G6484A"
+                              ],
+                              "strain": "NODE_0000009",
+                              "yvalue": 8.5
+                            },
+                            {
+                              "aa_muts": {
+                                "EEEVgp1": [
+                                  "S362P",
+                                  "S383G"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.0015103461231424139,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2006-05-28",
+                                "div": 0.005579660275282398,
+                                "num_date": 2006.406331667283,
+                                "num_date_confidence": [
+                                  2002.0472060362586,
+                                  2007.6050518235736
+                                ],
+                                "state": "Alachua_County_FL",
+                                "state_confidence": {
+                                  "Alachua_County_FL": 0.7164953085075401,
+                                  "Orange_County_FL": 0.015824224335257486,
+                                  "Osceola_County_FL": 0.1810861961818278,
+                                  "Worcester": 0.016576737483351457
+                                },
+                                "state_entropy": 1.0529259088883363
+                              },
+                              "branch_length": 0.00151035,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "EEEVgp1": [
+                                      "V505A"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KU840341",
+                                    "clock_length": 0.0010527744282050953,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2013-12-11",
+                                    "div": 0.0072965788431337344,
+                                    "num_date": 2013.9472963723476,
+                                    "num_date_confidence": [
+                                      2013.9472963723476,
+                                      2013.9472963723476
+                                    ],
+                                    "raw_date": "2013-12-12",
+                                    "state": "Osceola_County_FL",
+                                    "state_confidence": {
+                                      "Osceola_County_FL": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.00105277,
+                                  "clade": 65,
+                                  "muts": [
+                                    "A709C",
+                                    "G769A",
+                                    "C818T",
+                                    "T2554C",
+                                    "C3106T",
+                                    "A3616G",
+                                    "G4093T",
+                                    "T4786C",
+                                    "G4975T",
+                                    "C5308T",
+                                    "G5326A",
+                                    "T5538C",
+                                    "T5932C",
+                                    "T6235C",
+                                    "C6403T",
+                                    "T6406C",
+                                    "T7561C",
+                                    "G8299A",
+                                    "C9082T",
+                                    "T10312C"
+                                  ],
+                                  "strain": "KU840341",
+                                  "yvalue": 7
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0002681032024448439,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2008-04-29",
+                                    "div": 0.005836880874580674,
+                                    "num_date": 2008.3267400024267,
+                                    "num_date_confidence": [
+                                      2004.7231640603484,
+                                      2009.7796492358912
+                                    ],
+                                    "state": "Alachua_County_FL",
+                                    "state_confidence": {
+                                      "Alachua_County_FL": 0.9926596355306939,
+                                      "Osceola_County_FL": 0.004082372742014532
+                                    },
+                                    "state_entropy": 0.05737727523984935
+                                  },
+                                  "branch_length": 0.0002681,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "EEEVgp1": [
+                                          "A285T",
+                                          "E426A"
+                                        ],
+                                        "EEEVgp3": [
+                                          "V337I"
+                                        ],
+                                        "EEEVgp4": [
+                                          "A45V"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "KU840352",
+                                        "clock_length": 0.0007082263832323963,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2013-05-25",
+                                        "div": 0.006780733692437232,
+                                        "num_date": 2013.3997262149212,
+                                        "num_date_confidence": [
+                                          2013.3997262149212,
+                                          2013.3997262149212
+                                        ],
+                                        "raw_date": "2013-05-26",
+                                        "state": "Alachua_County_FL",
+                                        "state_confidence": {
+                                          "Alachua_County_FL": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.00070823,
+                                      "clade": 66,
+                                      "muts": [
+                                        "C1076T",
+                                        "C1895T",
+                                        "G4877A",
+                                        "A5301C",
+                                        "A5923T",
+                                        "C6907T",
+                                        "T8620C",
+                                        "A9297C",
+                                        "C9954T",
+                                        "C10645A",
+                                        "G11000A"
+                                      ],
+                                      "strain": "KU840352",
+                                      "yvalue": 6
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "KU840338",
+                                        "clock_length": 0.0008577716064275086,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2014-06-20",
+                                        "div": 0.006437240641585834,
+                                        "num_date": 2014.4709103353866,
+                                        "num_date_confidence": [
+                                          2014.4709103353866,
+                                          2014.4709103353866
+                                        ],
+                                        "raw_date": "2014-06-21",
+                                        "state": "Alachua_County_FL",
+                                        "state_confidence": {
+                                          "Alachua_County_FL": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.00085777,
+                                      "clade": 67,
+                                      "muts": [
+                                        "C1357T",
+                                        "T1966C",
+                                        "C3943T",
+                                        "T4297C",
+                                        "T5170C",
+                                        "T5521C",
+                                        "T9217C"
+                                      ],
+                                      "strain": "KU840338",
+                                      "yvalue": 5
+                                    }
+                                  ],
+                                  "clade": 68,
+                                  "muts": [
+                                    "C7054A",
+                                    "T10708C",
+                                    "G10906A"
+                                  ],
+                                  "strain": "NODE_0000007",
+                                  "yvalue": 5.5
+                                }
+                              ],
+                              "clade": 69,
+                              "muts": [
+                                "A739G",
+                                "G1216T",
+                                "T1762C",
+                                "C2104A",
+                                "C3187T",
+                                "A3295G",
+                                "T3772C",
+                                "A3781G",
+                                "C3835T",
+                                "T4159C",
+                                "T4651G",
+                                "A4732G",
+                                "T4768A",
+                                "G4888A",
+                                "G5065A",
+                                "T5108C",
+                                "A5171G",
+                                "A6343G",
+                                "A6754G",
+                                "T6892C",
+                                "G7591A",
+                                "C7945T",
+                                "T8209C",
+                                "C8224T",
+                                "T9271C",
+                                "C10684T"
+                              ],
+                              "strain": "NODE_0000006",
+                              "yvalue": 6.25
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0005213028125413766,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "1999-04-27",
+                                "div": 0.00386091314618483,
+                                "num_date": 1999.3218694147768,
+                                "num_date_confidence": [
+                                  1992.9873117181533,
+                                  2002.0478189784765
+                                ],
+                                "state": "Alachua_County_FL",
+                                "state_confidence": {
+                                  "Alachua_County_FL": 0.5709260761456638,
+                                  "Madison_NY": 0.04912693156530923,
+                                  "Orange_County_FL": 0.027401521487737727,
+                                  "Worcester": 0.23217228838995246
+                                },
+                                "state_entropy": 1.4711848477584517
+                              },
+                              "branch_length": 0.0005213,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0009950856515642701,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2006-06-13",
+                                    "div": 0.004976019553064846,
+                                    "num_date": 2006.4496126197062,
+                                    "num_date_confidence": [
+                                      2004.5440083339663,
+                                      2007.6821840935806
+                                    ],
+                                    "state": "Worcester",
+                                    "state_confidence": {
+                                      "Alachua_County_FL": 0.011698629629134429,
+                                      "Worcester": 0.9823151518397348
+                                    },
+                                    "state_entropy": 0.11708709133182146
+                                  },
+                                  "branch_length": 0.00099509,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "EEEVgp3": [
+                                          "I116T"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "KX029294",
+                                        "clock_length": 0.00045734235135210985,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2009-09-21",
+                                        "div": 0.0055761698205300265,
+                                        "num_date": 2009.72553045859,
+                                        "num_date_confidence": [
+                                          2009.72553045859,
+                                          2009.72553045859
+                                        ],
+                                        "raw_date": "2009-09-22",
+                                        "state": "Worcester",
+                                        "state_confidence": {
+                                          "Worcester": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.00045734,
+                                      "clade": 70,
+                                      "muts": [
+                                        "C1769T",
+                                        "T3160C",
+                                        "T10338C",
+                                        "T10642C",
+                                        "T10846C",
+                                        "G10849A",
+                                        "C11093T"
+                                      ],
+                                      "strain": "KX029294",
+                                      "yvalue": 4
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "EEEVgp1": [
+                                          "M89T"
+                                        ],
+                                        "EEEVgp3": [
+                                          "T318A"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "KX029290",
+                                        "clock_length": 0.0005843363460015345,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2010-08-20",
+                                        "div": 0.0054904515666878775,
+                                        "num_date": 2010.6351813826147,
+                                        "num_date_confidence": [
+                                          2010.6351813826147,
+                                          2010.6351813826147
+                                        ],
+                                        "raw_date": "2010-08-20",
+                                        "state": "Worcester",
+                                        "state_confidence": {
+                                          "Worcester": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.00058434,
+                                      "clade": 71,
+                                      "muts": [
+                                        "A2307G",
+                                        "T4290C",
+                                        "T10771C",
+                                        "T10927C",
+                                        "T10936A",
+                                        "A10943G"
+                                      ],
+                                      "strain": "KX029290",
+                                      "yvalue": 3
+                                    }
+                                  ],
+                                  "clade": 72,
+                                  "muts": [
+                                    "C421T",
+                                    "T1348C",
+                                    "T1432C",
+                                    "C1495T",
+                                    "G1684A",
+                                    "C3103T",
+                                    "C3490T",
+                                    "C3980T",
+                                    "C5452T",
+                                    "G6976A",
+                                    "C7261T",
+                                    "C7435T",
+                                    "A10996G"
+                                  ],
+                                  "strain": "NODE_0000011",
+                                  "yvalue": 3.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00022537541677822162,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2000-12-07",
+                                    "div": 0.004032333966324476,
+                                    "num_date": 2000.9362209964459,
+                                    "num_date_confidence": [
+                                      1994.3490640896841,
+                                      2003.1048831523206
+                                    ],
+                                    "state": "Alachua_County_FL",
+                                    "state_confidence": {
+                                      "Alachua_County_FL": 0.6550180542227766,
+                                      "Madison_NY": 0.1403134078356149,
+                                      "Orange_County_FL": 0.014150355286336675,
+                                      "Worcester": 0.10105993524089107
+                                    },
+                                    "state_entropy": 1.3047424307743265
+                                  },
+                                  "branch_length": 0.00022538,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "KX000126",
+                                        "clock_length": 0.001918973967068399,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2014-09-05",
+                                        "div": 0.005921566390308363,
+                                        "num_date": 2014.6817248459959,
+                                        "num_date_confidence": [
+                                          2014.6817248459959,
+                                          2014.6817248459959
+                                        ],
+                                        "raw_date": "2014-09-06",
+                                        "state": "Madison_NY",
+                                        "state_confidence": {
+                                          "Madison_NY": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.00191897,
+                                      "clade": 73,
+                                      "muts": [
+                                        "A622G",
+                                        "T991A",
+                                        "G1207A",
+                                        "T2251C",
+                                        "A3208G",
+                                        "C3490T",
+                                        "C3541A",
+                                        "A4264T",
+                                        "C4573T",
+                                        "T4582G",
+                                        "T5446C",
+                                        "C5554T",
+                                        "G5668A",
+                                        "C6190T",
+                                        "G6799A",
+                                        "T7660A",
+                                        "C7910T",
+                                        "G8074A",
+                                        "T8744C",
+                                        "C8974T",
+                                        "A9469G",
+                                        "T11050C"
+                                      ],
+                                      "strain": "KX000126",
+                                      "yvalue": 2
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "EEEVgp1": [
+                                          "V64I",
+                                          "A478T"
+                                        ],
+                                        "EEEVgp2": [
+                                          "V134I"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "KU840301",
+                                        "clock_length": 0.001888396030057276,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2014-06-18",
+                                        "div": 0.0064371776985413555,
+                                        "num_date": 2014.4626967830254,
+                                        "num_date_confidence": [
+                                          2014.4626967830254,
+                                          2014.4626967830254
+                                        ],
+                                        "raw_date": "2014-06-18",
+                                        "state": "Alachua_County_FL",
+                                        "state_confidence": {
+                                          "Alachua_County_FL": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.0018884,
+                                      "clade": 74,
+                                      "muts": [
+                                        "C1234T",
+                                        "A1690T",
+                                        "C2065T",
+                                        "C2494T",
+                                        "C2497T",
+                                        "C2821T",
+                                        "T3475C",
+                                        "C3508T",
+                                        "C3586T",
+                                        "C3706T",
+                                        "T3814C",
+                                        "G3916A",
+                                        "T4081C",
+                                        "G4214A",
+                                        "C4447T",
+                                        "G4921T",
+                                        "C5089T",
+                                        "G5456A",
+                                        "C6004T",
+                                        "G6083A",
+                                        "A6952G",
+                                        "C7057T",
+                                        "T7489C",
+                                        "T7578C",
+                                        "C8554A",
+                                        "A9034G",
+                                        "T10357C",
+                                        "T10468C"
+                                      ],
+                                      "strain": "KU840301",
+                                      "yvalue": 1
+                                    }
+                                  ],
+                                  "clade": 75,
+                                  "muts": [
+                                    "T3844C",
+                                    "G6391A"
+                                  ],
+                                  "strain": "NODE_0000012",
+                                  "yvalue": 1.5
+                                }
+                              ],
+                              "clade": 76,
+                              "muts": [
+                                "T2044C",
+                                "C3226T",
+                                "G3967A",
+                                "C9374T",
+                                "T9505C",
+                                "C10843T"
+                              ],
+                              "strain": "NODE_0000010",
+                              "yvalue": 2.5
+                            }
+                          ],
+                          "clade": 77,
+                          "muts": [
+                            "A7918G"
+                          ],
+                          "strain": "NODE_0000003",
+                          "yvalue": 6.5
+                        }
+                      ],
+                      "clade": 78,
+                      "muts": [
+                        "C10198T"
+                      ],
+                      "strain": "NODE_0000002",
+                      "yvalue": 9.25
+                    }
+                  ],
+                  "clade": 79,
+                  "muts": [
+                    "A1804G",
+                    "T2134C",
+                    "T3980C",
+                    "C4225T"
+                  ],
+                  "strain": "NODE_0000001",
+                  "yvalue": 11.375
+                }
+              ],
+              "clade": 80,
+              "muts": [
+                "C871T",
+                "A1426G",
+                "A1438C",
+                "T1570A",
+                "T3142C",
+                "A3538G",
+                "C4231T",
+                "T4240C",
+                "T5002C",
+                "C5116T",
+                "C5698T",
+                "C6583T",
+                "G6797T",
+                "C7450T",
+                "T9644C",
+                "C10642T"
+              ],
+              "strain": "NODE_0000013",
+              "yvalue": 15.15625
+            }
+          ],
+          "clade": 81,
+          "muts": [
+            "A5541C",
+            "C9931T"
+          ],
+          "strain": "NODE_0000019",
+          "yvalue": 18.078125
+        }
+      ],
+      "clade": 82,
+      "muts": [],
+      "strain": "NODE_0000022",
+      "yvalue": 32.0390625
+    }
+  ],
+  "clade": 83,
+  "muts": [],
+  "strain": "NODE_0000004",
+  "yvalue": 39.51953125
+}
